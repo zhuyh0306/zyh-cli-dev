@@ -1,5 +1,5 @@
 {
-  "name": "@zz-cli-dev/core",
+  "name": "zz-cli-dev-core",
   "version": "1.0.9",
   "description": "> TODO: description",
   "author": "zyh",
@@ -20,5 +20,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6b890f497a3b4894782c7df56f10fc6bc6eacfe2"
+  "gitHead": "2dd1f3940dc745d3af6e9e8f0d4dbffef76248ec"
 }
