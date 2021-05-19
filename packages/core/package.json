@@ -1,6 +1,6 @@
 {
   "name": "@zz-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "zhuyh <zhuyhd@cn.ibm.com>",
   "homepage": "",
@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "0d8133375138d61c9323042ab19177a76f540abe"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "f864ef658daaebaa4bb488b1bdd68c79fc6a0653"
 }
