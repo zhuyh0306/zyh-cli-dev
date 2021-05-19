@@ -2,7 +2,7 @@
   "name": "@zz-cli-dev/utils",
   "version": "1.0.5",
   "description": "> TODO: description",
-  "author": "zhuyh <zhuyhd@cn.ibm.com>",
+  "author": "zyh",
   "homepage": "",
   "license": "ISC",
   "main": "lib/indexs.js",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "4c603b9282b8bf26ce90eafe185248c150a9e24f"
+  "gitHead": "1a21cf6a47491878ee0ec6323a33fc2c0dec7b5b"
 }
