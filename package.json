@@ -1,6 +1,6 @@
 {
   "name": "zz-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "zz-cli dev",
   "main": "index.js",
   "scripts": {

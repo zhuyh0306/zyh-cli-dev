@@ -1,6 +1,6 @@
 {
   "name": "@zz-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "zhuyh <zhuyhd@cn.ibm.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "f864ef658daaebaa4bb488b1bdd68c79fc6a0653"
+  "gitHead": "c3b1e57df717b00e7e56bb231ccf3d1568b83a63"
 }
