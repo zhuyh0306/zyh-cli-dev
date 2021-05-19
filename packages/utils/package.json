@@ -1,6 +1,6 @@
 {
   "name": "@zz-cli-dev/utils",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "> TODO: description",
   "author": "zyh",
   "homepage": "",
@@ -19,6 +19,5 @@
   "publishConfig": {
     "access": "public"
   },
-  
   "gitHead": "a94a760bf6b44d8667fe5c114ee9a037cc775806"
 }
