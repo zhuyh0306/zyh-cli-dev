@@ -5,7 +5,7 @@
   "author": "zhuyh <zhuyhd@cn.ibm.com>",
   "homepage": "",
   "license": "ISC",
-  "main": "lib/core.js",
+  "main": "lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "0d8133375138d61c9323042ab19177a76f540abe"
 }
